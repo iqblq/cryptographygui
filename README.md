@@ -47,5 +47,25 @@ Untuk menjalankan aplikasi-aplikasi ini, pastikan Anda memiliki Python terinstal
 1. Buka terminal atau command prompt.
 2. Jalankan perintah berikut untuk menginstal pustaka yang diperlukan:
 
+### Menjalankan Aplikasi:
+Navigasikan ke direktori tempat file aplikasi disimpan.
+
+Jalankan aplikasi dengan perintah berikut:
+
+Untuk Enkripsi dan Dekripsi DES:
+bash
+Salin kode
+python desgui.py
+Untuk Kalkulator Caesar Cipher:
+bash
+Salin kode
+python kalkulator_caesar.py
+Untuk Steganografi:
+bash
+Salin kode
+python steganogui.py
+Dengan mengikuti langkah-langkah di atas, Anda dapat menjalankan dan menggunakan aplikasi-aplikasi yang telah dibuat.
+
 ```bash
 pip install tkinter pycryptodome pillow stegano
+
